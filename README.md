@@ -17,4 +17,8 @@ structured(python): https://databricks-prod-cloudfront.cloud.databricks.com/publ
 
 Kinasih Nur Azizah 5113100178 
 
+twitter: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/962347482651550/2200508735231288/5135005478219055/latest.html
 
+scala-structure: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/962347482651550/2200508735231303/5135005478219055/latest.html 
+
+python-structure: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/962347482651550/2200508735231322/5135005478219055/latest.html
