@@ -27,3 +27,7 @@ python-structure: https://databricks-prod-cloudfront.cloud.databricks.com/public
 TUGAS 8
 
 Admiral Budi Arviansyah (5113100189) : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8643132940459253/1681246571202258/8952763245024558/latest.html
+
+Nindyasari Dewi Utari (5113100039) : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2219399794502869/945435445849688/1133007436902391/latest.html
+
+Kinasih Nur Azizah (5113100178) : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/962347482651550/4267527781455889/5135005478219055/latest.html
